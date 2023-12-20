@@ -2,7 +2,6 @@ import { Inter } from "next/font/google";
 import Head from "next/head";
 import AboutMe from "../components/Home/AboutMe";
 import Projects from "@/components/Home/Projects";
-import "../images/gereciador-habitos.png";
 
 const inter = Inter({ subsets: ["latin"] });
 

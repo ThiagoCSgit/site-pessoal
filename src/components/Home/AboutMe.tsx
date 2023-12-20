@@ -12,12 +12,11 @@ export default function AboutMe() {
     <main className="flex flex-wrap-reverse justify-center items-center gap-10 md:gap-32 py-8 text-lg text-center xl:text-left xl:flex-nowrap xl:justify-between">
       <div className="text-white flex flex-col items-center xl:items-start gap-4 w-full xl:w-120">
         <h1 className="text-3xl sm:text-7xl xl:leading-[5rem]">
-          Pleasure, i'm &nbsp;
-          <strong>Thiago</strong>
+          Pleasure, i am <strong>Thiago</strong>
         </h1>
         <div className="mb-12">
           <h2 className={`${roboto.className} mb-12`}>
-            I'm a Front-end developer who loves creating interfaces and
+            I am a Front-end developer who loves creating interfaces and
             introducing new technologies!
           </h2>
           <Link
