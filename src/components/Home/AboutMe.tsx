@@ -16,8 +16,8 @@ export default function AboutMe() {
         </h1>
         <div className="mb-12">
           <h2 className={`${roboto.className} mb-12`}>
-            I am a Front-end developer who loves creating interfaces and
-            introducing new technologies!
+            I am a Front-end developer graduated in Information Systems at IFES
+            who loves creating interfaces and introducing new technologies!
           </h2>
           <Link
             href="/contacts"
