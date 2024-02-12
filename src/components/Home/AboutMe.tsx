@@ -107,7 +107,7 @@ export default function AboutMe() {
         <p className="p-4 w-fit text-base text-center leading-tight bg-t-blue-500 rounded-xl text-black absolute -bottom-[0.75rem] sm:bottom-3">
           <strong className="text-4xl">2+</strong>
           <br />
-          anos de experiência
+          years of experience
         </p>
       </div>
     </main>
